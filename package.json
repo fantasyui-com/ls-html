@@ -20,9 +20,7 @@
   },
   "homepage": "https://github.com/fantasyui-com/ls-html#readme",
   "dependencies": {
+    "commander": "^2.9.0",
     "list-html-classes": "^1.2.1"
-  },
-  "devDependencies": {
-    "commander": "^2.9.0"
   }
 }
