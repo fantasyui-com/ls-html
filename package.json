@@ -1,0 +1,28 @@
+{
+  "name": "ls-html",
+  "version": "1.0.1",
+  "description": "List information about HTML file.",
+  "main": "index.js",
+  "bin": {
+    "ls-html": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/ls-html.git"
+  },
+  "author": "fantasyui-com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/ls-html/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/ls-html#readme",
+  "dependencies": {
+    "list-html-classes": "^1.2.1"
+  },
+  "devDependencies": {
+    "commander": "^2.9.0"
+  }
+}
