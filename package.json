@@ -8,14 +8,14 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "save": "\"save\": \"git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;\""
+    "save": "git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/ls-html.git"
   },
   "author": "fantasyui.com <fantasyui.com@gmail.com>",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/fantasyui-com/ls-html/issues"
   },
