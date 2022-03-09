@@ -1,6 +1,6 @@
 {
   "name": "ls-html",
-  "version": "1.10.0",
+  "version": "1.11.0",
   "description": "List information about HTML file.",
   "main": "index.js",
   "bin": {
